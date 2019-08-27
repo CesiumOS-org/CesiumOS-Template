@@ -1,0 +1,52 @@
+[B][SIZE="4"][center][img]https://i.postimg.cc/ht3j97Wk/CSBanner-Logo.png[/img]
+Welcome to CesiumOS, Yet another AOSP project. But this is one that will be a very different and exciting project. What differentiates us from the rest you ask? Well that's why you're here to find out.
+[i][b]*Note[/b] This thread is optimised for both Light and Dark XDA themes. View this thread in a browser to have a magical experience![/i]:D
+
+[img]https://i.postimg.cc/Pf6Mv2VK/Cesium-Text-Banner-About-Us.png[/img]
+CesiumOS is a project that is designed to be exciting. It is something that was born out of a sea of same looking AOSP roms. We offer a unique yet similar experience for your phone. We cherry-pick features that we think will [b]*actually*[/b] be useful for your daily activities and nothing more. Since this is the start of something beautiful, something exciting we will continue to add more features in the future releases. We will strive to not keep the ROM bloated yet still have enough features that will keep you satisfied.
+
+[img]https://i.postimg.cc/fWxJ6Lmd/Cesium-Text-Banner-Features.png[/img]
+[code]
+Version 2.3
+- Initial release, yet to be added!
+- Based on December security patch (R16)
+[/code]
+
+[img]https://i.postimg.cc/x8y8Hxn5/Cesium-Text-Banner-Downloads.png[/img]
+[url=https://sourceforge.net/projects/cesiumos/]Download ROM here.[/url]
+
+[img]https://i.postimg.cc/xT5q14sT/Cesium-Text-Banner-Installation.png[/img]
+[code]Clean Flash.[/code]
+1. Take a backup of your phone
+2. Boot to TWRP and wipe - System, Data and Dalvik Cache
+3. Flash ROM 
+4. Reboot System :)
+
+[code]Dirty Flash[/code]
+1. Download Latest build
+2. Boot to TWRP and Flash build
+3. Wipe Dalvik Cache
+4. Re-Boot System
+
+[img]https://i.postimg.cc/QxhHs3Jy/Cesium-Text-Banner-Imp-Links.png[/img]
+[url=www.github.com/topjohnwu/magisk]Magisk Github Repo[/url]
+[url=https://t.me/cesiumos_channel]CesiumOS announcements[/url]
+[url=https://t.me/cesiumos_official]CesiumOS Official Community channel[/url]
+[url=https://github.com/CesiumOS]CesiumOS Source code[/url]
+
+[img]https://i.postimg.cc/9Qf0RYSP/Cesium-Text-Banner-Team.png[/img]
+Founders - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url] and [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url]
+Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url] and [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
+Helpful People/Supporters - [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
+Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=10122765]Thanuj|CarbonGTR[/url], [url=https://forum.xda-developers.com/member.php?u=7475042]Nikhil[/url]
+Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url]
+
+[b][i][url=paypal.me/bunnyy95]Donations[/url][/i][/b][/center][/SIZE][/B]
+
+[b]Build Author/Maintainer[/b] - Builder's Name
+[b]Device Name[/b] - Device Name
+[b]Device Codename[/b] - Device Codename
+[b]Kernel Source[/b] - 
+[b]ROM Status[/b] - Unofficial
+[b]Current ROM Version[/b] - v2.3
+[b]Stable ROM Version[/b] - v2.3
