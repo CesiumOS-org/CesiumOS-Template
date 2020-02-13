@@ -7,13 +7,12 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 
 [img]https://i.postimg.cc/fWxJ6Lmd/Cesium-Text-Banner-Features.png[/img]
 [code]
-Version 2.4
-- Based on January (R23) Security Patches
+Version 2.4.1
+- Based on February (R27) Security Patches
 - Built in AppLock
 - Built in Gapps 
 - Now comes with Retro Music Player!
-- OTA Updates (with incremental update support!)
-- Lawnchair Launcher 
+- OTA Updates
 - Persistent settings icon on qs panel
 - Add toogle unlinked ringtone and notification volumes
 - Lots of battery & perfomance tunning added! 
