@@ -9,40 +9,42 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 [code]
 Version 2.5
 
-STATUSBAR:
+[HIDE]
+[b]STATUSBAR:[/b]
 - Statusbar icons
 - DT2S on status bar
 - Network Meter customization
 
-LOCKSCREEN:
+[b]LOCKSCREEN:[/b]
 - Fingerprint authentication vibration
 - DT2S of lockscreen 
 - Lockscreen shortcut customization 
 - Media art
 
-NAVIGATION & BUTTONS:
+[b]NAVIGATION & BUTTONS:[/b]
 - Invert navbar
 - Navbar layout
 - Power menu customization 
 - Playback control
 - Screenoff torch 
 
-UI TUNER:
+[b]UI TUNER:[/b]
 - Brighness slider customizations 
 - Some important tweaks related to QS pannel ;)
 
-NOTFICATIONS:
+[b]NOTFICATIONS:[/b]
 - Ambient light 
 - Hide smart replies
 - Battery light customization
 
-EXTRAS:
+[b]EXTRAS:[/b]
 - Three finger swipe to screenshot
 - Incall vibrations 
 - Built in AppLock
 
 A lot more ;)
 [/code]
+[/HIDE]
 
 [img]https://i.postimg.cc/x8y8Hxn5/Cesium-Text-Banner-Downloads.png[/img]
 [url=https://sourceforge.net/projects/cesiumos/]Download ROM here.[/url]
@@ -74,6 +76,14 @@ Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=1012
 Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url]
 
 [img]https://i.postimg.cc/DmBVHZhh/Cesium-Text-Banner-Credits.png[/img]
+[url=https://android.googlesource.com/]Android Open-Source Project[/url]
+[url=https://github.com/LineageOS]LineageOS[/url]
+[url=https://github.com/PixelExperience]Pixel Experience[/url]
+[url=https://github.com/Extended-UI]Extended UI[/url]
+[url=https://github.com/Havoc-OS]Havoc-OS[/url]
+[url=https://github.com/Evolution-X]Evolution-X[/url]
+[url=https://github.com/PotatoProject/]POSP[/url]
+And all the other open-source projects we picked from
 
 [b][i][url=paypal.me/bunnyy95]Donations[/url][/i][/b][/center][/SIZE][/B]
 
