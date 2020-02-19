@@ -1,21 +1,47 @@
 [B][SIZE="4"][center][img]https://i.postimg.cc/ht3j97Wk/CSBanner-Logo.png[/img]
-Welcome to CesiumOS, Yet another AOSP project. But this is one that will be a very different and exciting project. What differentiates us from the rest you ask? Well that's why you're here to find out.
+Welcome to CesiumOS, Yet another AOSP project. But this is one that will be a very different and exciting project. What differentiates us from the rest, you ask? Well that's why you're here - to find out.
 [i][b]*Note[/b] This thread is optimised for both Light and Dark XDA themes. View this thread in a browser to have a magical experience![/i]:D
 
 [img]https://i.postimg.cc/Pf6Mv2VK/Cesium-Text-Banner-About-Us.png[/img]
-CesiumOS is a project that is designed to be exciting. It is something that was born out of a sea of same looking AOSP roms. We offer a unique yet similar experience for your phone. We cherry-pick features that we think will [b]*actually*[/b] be useful for your daily activities and nothing more. Since this is the start of something beautiful, something exciting we will continue to add more features in the future releases. We will strive to not keep the ROM bloated yet still have enough features that will keep you satisfied.
+CesiumOS is a project that is designed to be exciting. It is something that was born out of a sea of similar-looking AOSP roms. We offer a unique, yet familiar experience for your phone. We cherry-pick features that we think will [b]*actually*[/b] be useful in your daily lives, and nothing more. Since this is the beginning of something beautiful and exciting, we will continue to add more features in the future releases. We will strive to keep the ROM bloat-free, yet still have enough features that will keep you satisfied.
 
 [img]https://i.postimg.cc/fWxJ6Lmd/Cesium-Text-Banner-Features.png[/img]
 [code]
-Version 2.4.1
-- Based on February (R27) Security Patches
+Version 2.5
+
+STATUSBAR:
+- Statusbar icons
+- DT2S on status bar
+- Network Meter customization
+
+LOCKSCREEN:
+- Fingerprint authentication vibration
+- DT2S of lockscreen 
+- Lockscreen shortcut customization 
+- Media art
+
+NAVIGATION & BUTTONS:
+- Invert navbar
+- Navbar layout
+- Power menu customization 
+- Playback control
+- Screenoff torch 
+
+UI TUNER:
+- Brighness slider customizations 
+- Some important tweaks related to QS pannel ;)
+
+NOTFICATIONS:
+- Ambient light 
+- Hide smart replies
+- Battery light customization
+
+EXTRAS:
+- Three finger swipe to screenshot
+- Incall vibrations 
 - Built in AppLock
-- Built in Gapps 
-- Now comes with Retro Music Player!
-- OTA Updates
-- Persistent settings icon on qs panel
-- Add toogle unlinked ringtone and notification volumes
-- Lots of battery & perfomance tunning added! 
+
+A lot more ;)
 [/code]
 
 [img]https://i.postimg.cc/x8y8Hxn5/Cesium-Text-Banner-Downloads.png[/img]
@@ -32,7 +58,7 @@ Version 2.4.1
 1. Download Latest build
 2. Boot to TWRP and Flash build
 3. Wipe Dalvik Cache
-4. Re-Boot System
+4. Reboot System
 
 [img]https://i.postimg.cc/QxhHs3Jy/Cesium-Text-Banner-Imp-Links.png[/img]
 [url=www.github.com/topjohnwu/magisk]Magisk Github Repo[/url]
@@ -47,6 +73,8 @@ Helpful People/Supporters - [url=https://forum.xda-developers.com/member.php?u=1
 Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=10122765]CarbonGTR[/url], [url=https://forum.xda-developers.com/member.php?u=7475042]Nikhil[/url]
 Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url]
 
+[img]https://i.postimg.cc/DmBVHZhh/Cesium-Text-Banner-Credits.png[/img]
+
 [b][i][url=paypal.me/bunnyy95]Donations[/url][/i][/b][/center][/SIZE][/B]
 
 [b]Build Author/Maintainer[/b] - Builder's Name
@@ -54,5 +82,5 @@ Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/
 [b]Device Codename[/b] - Device Codename
 [b]Kernel Source[/b] - 
 [b]ROM Status[/b] - Unofficial
-[b]Current ROM Version[/b] - v2.3
-[b]Stable ROM Version[/b] - v2.3
+[b]Current ROM Version[/b] - v2.5
+[b]Stable ROM Version[/b] - v2.5
