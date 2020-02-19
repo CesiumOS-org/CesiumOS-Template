@@ -6,9 +6,8 @@ Welcome to CesiumOS, Yet another AOSP project. But this is one that will be a ve
 CesiumOS is a project that is designed to be exciting. It is something that was born out of a sea of similar-looking AOSP roms. We offer a unique, yet familiar experience for your phone. We cherry-pick features that we think will [b]*actually*[/b] be useful in your daily lives, and nothing more. Since this is the beginning of something beautiful and exciting, we will continue to add more features in the future releases. We will strive to keep the ROM bloat-free, yet still have enough features that will keep you satisfied.
 
 [img]https://i.postimg.cc/fWxJ6Lmd/Cesium-Text-Banner-Features.png[/img]
-[HIDE]
-Version 2.5
 
+[HIDE]
 [code]
 [b]STATUSBAR:[/b]
 - Statusbar icons
@@ -41,6 +40,7 @@ Version 2.5
 - Three finger swipe to screenshot
 - Incall vibrations 
 - Built in AppLock
+- Built in Gapps
 
 A lot more ;)
 [/code]
@@ -70,12 +70,12 @@ A lot more ;)
 
 [img]https://i.postimg.cc/9Qf0RYSP/Cesium-Text-Banner-Team.png[/img]
 Founders - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url] and [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url]
-Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url] and [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
+Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url], [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url] [url=https://forum.xda-developers.com/member.php?u=9505787]Tushar Mahajan[/url]
 Helpful People/Supporters - [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
-Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=10122765]CarbonGTR[/url], [url=https://forum.xda-developers.com/member.php?u=7475042]Nikhil[/url]
-Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url]
+Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=10122765]CarbonGTR[/url], [url=https://forum.xda-developers.com/member.php?u=7475042]Nikhil[/url] and MIUNO
+Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url] and MIUNO
 
-[img]https://i.postimg.cc/NF6GDSMy/Cesium-Text-Banner-Credits.png[/img]
+[img]https://i.postimg.cc/DmBVHZhh/Cesium-Text-Banner-Credits.png[/img]
 [url=https://android.googlesource.com/]Android Open-Source Project[/url]
 [url=https://github.com/LineageOS]LineageOS[/url]
 [url=https://github.com/PixelExperience]Pixel Experience[/url]
