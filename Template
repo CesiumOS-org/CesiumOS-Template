@@ -6,10 +6,10 @@ Welcome to CesiumOS, Yet another AOSP project. But this is one that will be a ve
 CesiumOS is a project that is designed to be exciting. It is something that was born out of a sea of similar-looking AOSP roms. We offer a unique, yet familiar experience for your phone. We cherry-pick features that we think will [b]*actually*[/b] be useful in your daily lives, and nothing more. Since this is the beginning of something beautiful and exciting, we will continue to add more features in the future releases. We will strive to keep the ROM bloat-free, yet still have enough features that will keep you satisfied.
 
 [img]https://i.postimg.cc/fWxJ6Lmd/Cesium-Text-Banner-Features.png[/img]
-[code]
+[HIDE]
 Version 2.5
 
-[HIDE]
+[code]
 [b]STATUSBAR:[/b]
 - Statusbar icons
 - DT2S on status bar
