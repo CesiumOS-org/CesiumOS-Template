@@ -36,11 +36,17 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 - Hide smart replies
 - Battery light customization
 
+[b]BATTERY:[/b]
+- Aggersive mode 
+- Smart Pixels
+
 [b]EXTRAS:[/b]
 - Three finger swipe to screenshot
 - Incall vibrations 
 - Built in AppLock
-- Built in Gapps
+- Extended QS Tiles for Wifi, Bluetooth, NFC, Mobile data
+- Data switch tiles 
+- Call recording 
 
 A lot more ;)
 [/code]
@@ -54,7 +60,8 @@ A lot more ;)
 1. Take a backup of your phone
 2. Boot to TWRP and wipe - System, Data and Dalvik Cache
 3. Flash ROM 
-4. Reboot System :)
+4. Flash Gapps 
+5. Reboot System :) #GetActive
 
 [code]Dirty Flash[/code]
 1. Download Latest build
@@ -67,6 +74,7 @@ A lot more ;)
 [url=https://t.me/cesiumos_channel]CesiumOS announcements[/url]
 [url=https://t.me/cesiumos_official]CesiumOS Official Community channel[/url]
 [url=https://github.com/CesiumOS]CesiumOS Source code[/url]
+[url=https://cesiumos.xyz]CesiumOS Website[/url]
 
 [img]https://i.postimg.cc/9Qf0RYSP/Cesium-Text-Banner-Team.png[/img]
 Founders - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url] and [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url]
@@ -92,5 +100,5 @@ And all the other open-source projects we picked from
 [b]Device Codename[/b] - Device Codename
 [b]Kernel Source[/b] - 
 [b]ROM Status[/b] - Unofficial
-[b]Current ROM Version[/b] - v2.5
-[b]Stable ROM Version[/b] - v2.5
+[b]Current ROM Version[/b] - v2.6-P2
+[b]Stable ROM Version[/b] - v2.6-P2
