@@ -12,12 +12,14 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 [b]STATUSBAR:[/b]
 - Statusbar icons
 - DT2S on status bar
+- QS Header data usage 
 - Network Meter customization
 
 [b]LOCKSCREEN:[/b]
 - Fingerprint authentication vibration
 - DT2S of lockscreen 
 - Lockscreen shortcut customization 
+- Pocket mode support
 - Media art
 
 [b]NAVIGATION & BUTTONS:[/b]
@@ -29,6 +31,7 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 
 [b]UI TUNER:[/b]
 - Brighness slider customizations 
+- R style notification 
 - Some important tweaks related to QS pannel ;)
 
 [b]NOTFICATIONS:[/b]
@@ -45,8 +48,12 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 - Incall vibrations 
 - Built in AppLock
 - Extended QS Tiles for Wifi, Bluetooth, NFC, Mobile data
+- Signature spoofing
+- DiracFX support
+- Face Unlock
 - Data switch tiles 
 - Call recording 
+- A lot more ;)
 
 A lot more ;)
 [/code]
