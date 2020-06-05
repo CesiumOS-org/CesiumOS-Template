@@ -54,21 +54,19 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 - Data switch tiles 
 - Call recording 
 - A lot more ;)
-
-A lot more ;)
 [/code]
 [/HIDE]
 
 [img]https://i.postimg.cc/x8y8Hxn5/Cesium-Text-Banner-Downloads.png[/img]
-[url=https://sourceforge.net/projects/cesiumos/]Download ROM here.[/url]
+[url=https://sourceforge.net/projects/cesiumos-org/]Download ROM here.[/url]
 
 [img]https://i.postimg.cc/xT5q14sT/Cesium-Text-Banner-Installation.png[/img]
 [code]Clean Flash.[/code]
 1. Take a backup of your phone
-2. Boot to TWRP and wipe - System, Data and Dalvik Cache
+2. Boot to TWRP and wipe - System, Data, Vendor and Dalvik Cache
 3. Flash ROM 
-4. Flash Gapps 
-5. Reboot System :) #GetActive
+4. Reboot system, Setup your device
+5. Flash Gapps & Magisk(optional) after first boot.
 
 [code]Dirty Flash[/code]
 1. Download Latest build
@@ -78,14 +76,15 @@ A lot more ;)
 
 [img]https://i.postimg.cc/QxhHs3Jy/Cesium-Text-Banner-Imp-Links.png[/img]
 [url=www.github.com/topjohnwu/magisk]Magisk Github Repo[/url]
-[url=https://t.me/cesiumos_channel]CesiumOS announcements[/url]
-[url=https://t.me/cesiumos_official]CesiumOS Official Community channel[/url]
-[url=https://github.com/CesiumOS]CesiumOS Source code[/url]
-[url=https://cesiumos.xyz]CesiumOS Website[/url]
+[url=https://opengapps.org/]Open Gapps[/url]
+[url=https://t.me/CesiumOS_Newsl]CesiumOS announcements[/url]
+[url=https://t.me/CesiumOS_Communityl]CesiumOS Official Community channel[/url]
+[url=https://github.com/CesiumOS-org]CesiumOS Source code[/url]
+[url=https://github.com/Cesium-Devices]CesiumOS Devices source code[/url]
 
 [img]https://i.postimg.cc/9Qf0RYSP/Cesium-Text-Banner-Team.png[/img]
 Founders - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url] and [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url]
-Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url], [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url] [url=https://forum.xda-developers.com/member.php?u=9505787]Tushar Mahajan[/url]
+Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url], [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url] [url=https://forum.xda-developers.com/member.php?u=5514152]Paget96(Dan)[/url]
 Helpful People/Supporters - [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
 Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=10122765]CarbonGTR[/url], [url=https://forum.xda-developers.com/member.php?u=7475042]Nikhil[/url] and MIUNO
 Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url] and MIUNO
@@ -100,12 +99,12 @@ Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/
 [url=https://github.com/PotatoProject/]POSP[/url]
 And all the other open-source projects we picked from
 
-[b][i][url=paypal.me/bunnyy95]Donations[/url][/i][/b][/center][/SIZE][/B]
+[b][i][STRIKE]Donations[/STRIKE](Just hit :good: that's more than enough for us ;) )[/i][/b][/center][/SIZE][/B]
 
 [b]Build Author/Maintainer[/b] - Builder's Name
 [b]Device Name[/b] - Device Name
 [b]Device Codename[/b] - Device Codename
-[b]Kernel Source[/b] - 
+[b]Kernel Source[/b] - https://github.com/Cesium-Devices
 [b]ROM Status[/b] - Unofficial
-[b]Current ROM Version[/b] - v2.6-P2
-[b]Stable ROM Version[/b] - v2.6-P2
+[b]Current ROM Version[/b] - v2.6
+[b]Stable ROM Version[/b] - v2.6
