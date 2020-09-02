@@ -32,6 +32,7 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 [b]UI TUNER:[/b]
 - Brighness slider customizations 
 - R style notification 
+- Configurable custom QS header images
 - Some important tweaks related to QS pannel ;)
 
 [b]NOTFICATIONS:[/b]
@@ -49,10 +50,11 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 - Built in AppLock
 - Extended QS Tiles for Wifi, Bluetooth, NFC, Mobile data
 - Signature spoofing
-- DiracFX support
+- DiracFX/MiSoundFX support
 - Face Unlock
 - Data switch tiles 
 - Call recording 
+- Full screen gestures
 - A lot more ;)
 [/code]
 [/HIDE]
@@ -83,9 +85,9 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 [url=https://github.com/Cesium-Devices]CesiumOS Devices source code[/url]
 
 [img]https://i.postimg.cc/9Qf0RYSP/Cesium-Text-Banner-Team.png[/img]
-Founders - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url] and [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url]
-Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=8946392]Himanshu Singhal[/url], [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url] [url=https://forum.xda-developers.com/member.php?u=5514152]Paget96(Dan)[/url]
-Helpful People/Supporters - [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
+Founders - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url]
+Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=5514152]Paget96(Dan)[/url]
+Helpful People/Supporters - [url=https://forum.xda-developers.com/member.php?u=8323550]Gagan[/url], [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
 Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=10122765]CarbonGTR[/url], [url=https://forum.xda-developers.com/member.php?u=7475042]Nikhil[/url] and MIUNO
 Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url] and MIUNO
 
@@ -106,5 +108,5 @@ And all the other open-source projects we picked from
 [b]Device Codename[/b] - Device Codename
 [b]Kernel Source[/b] - https://github.com/Cesium-Devices
 [b]ROM Status[/b] - Unofficial
-[b]Current ROM Version[/b] - v2.6.1
-[b]Stable ROM Version[/b] - v2.6.1
+[b]Current ROM Version[/b] - v2.7.1
+[b]Stable ROM Version[/b] - v2.7.1
