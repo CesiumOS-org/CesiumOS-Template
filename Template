@@ -9,53 +9,7 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 
 [HIDE]
 [code]
-[b]STATUSBAR:[/b]
-- Statusbar icons
-- DT2S on status bar
-- QS Header data usage 
-- Network Meter customization
-
-[b]LOCKSCREEN:[/b]
-- Fingerprint authentication vibration
-- DT2S of lockscreen 
-- Lockscreen shortcut customization 
-- Pocket mode support
-- Media art
-
-[b]NAVIGATION & BUTTONS:[/b]
-- Invert navbar
-- Navbar layout
-- Power menu customization 
-- Playback control
-- Screenoff torch 
-
-[b]UI TUNER:[/b]
-- Brighness slider customizations 
-- R style notification 
-- Configurable custom QS header images
-- Some important tweaks related to QS pannel ;)
-
-[b]NOTFICATIONS:[/b]
-- Ambient light 
-- Hide smart replies
-- Battery light customization
-
-[b]BATTERY:[/b]
-- Aggersive mode 
-- Smart Pixels
-
-[b]EXTRAS:[/b]
-- Three finger swipe to screenshot
-- Incall vibrations 
-- Built in AppLock
-- Extended QS Tiles for Wifi, Bluetooth, NFC, Mobile data
-- Signature spoofing
-- DiracFX/MiSoundFX support
-- Face Unlock
-- Data switch tiles 
-- Call recording 
-- Full screen gestures
-- A lot more ;)
+WIP for Android 11
 [/code]
 [/HIDE]
 
@@ -109,5 +63,5 @@ And all the other open-source projects we picked from
 [b]Device Codename[/b] - Device Codename
 [b]Kernel Source[/b] - https://github.com/Cesium-Devices
 [b]ROM Status[/b] - Unofficial
-[b]Current ROM Version[/b] - v2.7.1
-[b]Stable ROM Version[/b] - v2.7.1
+[b]Current ROM Version[/b] - v3.0
+[b]Stable ROM Version[/b] - v3.0
