@@ -1,5 +1,5 @@
 [B][SIZE="4"][center][img]https://i.postimg.cc/W4KQv2CV/banner-v2-6-for-thread.png[/img]
-Welcome to CesiumOS, Yet another AOSP project. But this is one that will be a very different and exciting project. What differentiates us from the rest, you ask? Well that's why you're here - to find out.
+Welcome to CesiumOS, yet another AOSP project. But this is one that will be a very different and exciting project. What differentiates us from the rest, you ask? Well that's why you're here - to find out.
 [i][b]*Note[/b] This thread is optimised for both Light and Dark XDA themes. View this thread in a browser to have a magical experience![/i]:D
 
 [img]https://i.postimg.cc/Pf6Mv2VK/Cesium-Text-Banner-About-Us.png[/img]
@@ -9,8 +9,51 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 
 [HIDE]
 [code]
-WIP for Android 11
-[/code]
+[b]STATUSBAR:[/b]
+- Statusbar icons
+- 4G icon instead of LTE
+- Old style network indicators (Pre-P style)
+- Battery indicator customization
+- Status bar clock
+- DT2S on status bar
+
+[b]LOCKSCREEN:[/b]
+- Fingerprint authentication vibration
+- DT2S of lockscreen 
+- Lockscreen shortcut customization 
+- Pocket mode support
+- Media art
+
+[b]NAVIGATION & BUTTONS:[/b]
+- Invert navbar
+- Navbar layout
+- Power menu customization 
+- Playback control
+- Screenoff torch 
+- Volume panel location
+
+[b]UI TUNER:[/b]
+- QS Tile colors
+- Brighness slider customizations 
+- R style notification 
+- Notification headers
+
+[b]NOTFICATIONS:[/b]
+- In call vibrations
+- Battery light customization
+
+[b]BATTERY:[/b]
+- Aggersive mode 
+- Smart Pixels
+
+[b]EXTRAS:[/b]
+- Three finger swipe to screenshot
+- Incall vibrations 
+- Signature spoofing
+- Face Unlock
+- Data switch tile
+- Hide gesture pill
+- A lot more ;)[/code]
 [/HIDE]
 
 [img]https://i.postimg.cc/x8y8Hxn5/Cesium-Text-Banner-Downloads.png[/img]
