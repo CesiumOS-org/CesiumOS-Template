@@ -1,11 +1,11 @@
-[B][SIZE="4"][center][img]https://i.postimg.cc/W4KQv2CV/banner-v2-6-for-thread.png[/img]
+[B][SIZE="4"][center][img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/banner-v2-6-for-thread.png[/img]
 Welcome to CesiumOS, yet another AOSP project. But this is one that will be a very different and exciting project. What differentiates us from the rest, you ask? Well that's why you're here - to find out.
 [i][b]*Note[/b] This thread is optimised for both Light and Dark XDA themes. View this thread in a browser to have a magical experience![/i]:D
 
-[img]https://i.postimg.cc/Pf6Mv2VK/Cesium-Text-Banner-About-Us.png[/img]
+[img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/Cesium-Text-Banner-About-Us.png[/img]
 CesiumOS is a project that is designed to be exciting. It is something that was born out of a sea of similar-looking AOSP roms. We offer a unique, yet familiar experience for your phone. We cherry-pick features that we think will [b]*actually*[/b] be useful in your daily lives, and nothing more. Since this is the beginning of something beautiful and exciting, we will continue to add more features in the future releases. We will strive to keep the ROM bloat-free, yet still have enough features that will keep you satisfied.
 
-[img]https://i.postimg.cc/fWxJ6Lmd/Cesium-Text-Banner-Features.png[/img]
+[img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/Cesium-Text-Banner-Features.png[/img]
 
 [HIDE]
 [code]
@@ -56,10 +56,10 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 - A lot more ;)[/code]
 [/HIDE]
 
-[img]https://i.postimg.cc/x8y8Hxn5/Cesium-Text-Banner-Downloads.png[/img]
+[img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/Cesium-Text-Banner-Downloads.png[/img]
 [url=https://sourceforge.net/projects/cesiumos-org/]Download ROM here.[/url]
 
-[img]https://i.postimg.cc/xT5q14sT/Cesium-Text-Banner-Installation.png[/img]
+[img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/Cesium-Text-Banner-Installation.png[/img]
 [code]Clean Flash.[/code]
 1. Take a backup of your phone
 2. Boot to TWRP and wipe - System, Data, Vendor and Dalvik Cache
@@ -73,7 +73,7 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 3. Wipe Dalvik Cache
 4. Reboot System
 
-[img]https://i.postimg.cc/QxhHs3Jy/Cesium-Text-Banner-Imp-Links.png[/img]
+[img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/Cesium-Text-Banner-Imp-Links.png[/img]
 [url=www.github.com/topjohnwu/magisk]Magisk Github Repo[/url]
 [url=https://opengapps.org/]Open Gapps[/url]
 [url=http://thecesiumos.me/]CesiumOS Webpage[/url]
@@ -82,14 +82,14 @@ CesiumOS is a project that is designed to be exciting. It is something that was 
 [url=https://github.com/CesiumOS-org]CesiumOS Source code[/url]
 [url=https://github.com/Cesium-Devices]CesiumOS Devices source code[/url]
 
-[img]https://i.postimg.cc/9Qf0RYSP/Cesium-Text-Banner-Team.png[/img]
+[img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/Cesium-Text-Banner-Team.png[/img]
 Founders - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url]
 Devs - [url=https://forum.xda-developers.com/member.php?u=9414855]Sahil Sonar[/url], [url=https://forum.xda-developers.com/member.php?u=5514152]Paget96(Dan)[/url]
 Helpful People/Supporters - [url=https://forum.xda-developers.com/member.php?u=8323550]Gagan[/url], [url=https://forum.xda-developers.com/member.php?u=10063089]Samad[/url]
 Logos and XDA Template - [url=https://forum.xda-developers.com/member.php?u=10122765]CarbonGTR[/url], [url=https://forum.xda-developers.com/member.php?u=7475042]Nikhil[/url] and MIUNO
 Bootanimation - [url=https://forum.xda-developers.com/member.php?u=7856520]Sid[/url] and MIUNO
 
-[img]https://i.postimg.cc/NF6GDSMy/Cesium-Text-Banner-Credits.png[/img]
+[img]https://raw.githubusercontent.com/CesiumOS-org/CesiumOS-Template/master/res/Cesium-Text-Banner-Credits.png[/img]
 [url=https://android.googlesource.com/]Android Open-Source Project[/url]
 [url=https://github.com/LineageOS]LineageOS[/url]
 [url=https://github.com/PixelExperience]Pixel Experience[/url]
